@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌟 Checkout my technical articles on the [Section Engineering Website](https://www.section.io/engineering-education/authors/diana-mutheu/)
 - 🌱 I’m currently learning deep learning
 - 👯 I’m looking to collaborate on projects that impact the SDGs
-- 🤔 I’m looking for help with finding datasets in the Health Industry.
+- 🤔 I’m looking for help with finding datasets in the Health Industry. (an update, looking for some in Kenya, checkout [cema](https://cema.africa/) 😄)
 
 <div align="center">
 
