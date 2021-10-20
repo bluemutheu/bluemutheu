@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on data science projects using classical machine learning 
+- 🔭 Currently working on data science projects using classical machine learning 
 - 🌟 Checkout my technical articles on the [Section Engineering Website](https://www.section.io/engineering-education/authors/diana-mutheu/)
-- 🌱 I’m currently learning deep learning and computer visioning
-- 👯 I’m looking to collaborate on data-driven projects that impact the SDGs
+- 🌱 I’m learning deep learning and computer visioning
+- 👯 Happy to collaborate on data-driven projects that impact the SDGs
 - 🤔 I’m looking for datasets in the Health Industry. (an update, checkout [Cema](https://cema.africa/), for some Kenyan datasets, you're welcome 😄)
 
 <div align="center">
