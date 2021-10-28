@@ -12,15 +12,17 @@ Here are some ideas to get you started:
 - 👯 Happy to collaborate on data-driven projects that impact the SDGs
 - 🤔 I’m looking for datasets in the Health Industry. (an update, checkout [Cema](https://cema.africa/), for some Kenyan datasets, you're welcome 😄)
 
+
 <div align="center">
  
- ![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=bluemutheu&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemutheu&langs_count=5&theme=tokyonight)]()
 
-###### Show some ❤️ by starring some of the repositories!
+ ###### Show some ❤️ by starring some of the repositories!
 
 </div>
 
 <!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bluemutheu&count_private=true&theme=tokyonight&showicons=true)]()
 - 💬 Ask me about anything, always willing to help
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
