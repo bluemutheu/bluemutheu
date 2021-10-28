@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bluemutheu&count_private=true&theme=tokyonight&showicons=true)]()
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemutheu&langs_count=5&theme=tokyonight)]()
 
  ###### Show some ❤️ by starring some of the repositories!
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bluemutheu&count_private=true&theme=tokyonight&showicons=true)]()
 - 💬 Ask me about anything, always willing to help
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
