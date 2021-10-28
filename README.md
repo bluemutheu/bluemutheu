@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for datasets in the Health Industry. (an update, checkout [Cema](https://cema.africa/), for some Kenyan datasets, you're welcome 😄)
 
 <div align="center">
+ 
+ ![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=bluemutheu&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 
 ###### Show some ❤️ by starring some of the repositories!
 
