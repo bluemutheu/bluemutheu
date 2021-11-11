@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m learning deep learning and computer visioning
 - 👯 Happy to collaborate on data-driven projects that impact the SDGs
 - 🤔 I’m looking for datasets in the Health Industry. (an update, checkout [Cema](https://cema.africa/), for some Kenyan datasets, you're welcome 😄)
-- 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemutheu&layout=compact&theme=tokyonight)]()
