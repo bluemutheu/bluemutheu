@@ -1,4 +1,4 @@
-### Hi there 👋 meet **Diana Mutheu**
+### Hi there 👋 meet **Diana Mutheu** an Associate  Data Scientist at (Roche Pharma & BioTechnology Company)
 
 <!--
 **bluemutheu/bluemutheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
